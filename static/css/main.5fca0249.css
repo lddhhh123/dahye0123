@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}ul{list-style:none}#root{display:flex}#sidebar{background-color:#ccc;height:100vh;padding:50px;width:400px}#sidebar h1{margin-bottom:80px}#sidebar nav a{display:block}#detail{width:calc(100% - 400px)}#project nav a{display:block}
+/*# sourceMappingURL=main.5fca0249.css.map*/
